@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fulmenius
-- 👀 I’m interested in physics and everything else except soccer
-- 🌱 I’m currently learning physics and everything else except soccer
+- 👀 I’m interested in physics, bioinformatics and everything else except soccer
+- 🌱 I’m currently learning physics, bioinformatics and everything else except soccer
 - 💞️ I’m looking to collaborate on everything except soccer
 - 📫 I am hard to find, easy to loose and impossible to play soccer with
 
